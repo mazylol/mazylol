@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @IzzMazy
+- 👀 I’m interested in bots and games
+- 🌱 I’m currently learning C
+- 📫 How to reach me redstonerocks653@gmail.com
