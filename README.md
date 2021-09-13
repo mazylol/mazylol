@@ -15,6 +15,7 @@
 <a href="https://instagram.com/izzmazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="izzmazy" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mazy" height="30" width="40" /></a>
 <a href="https://discord.gg/discord.gg/CHaNsbC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/CHaNsbC" height="30" width="40" /></a>
+[![](https://devbio.me/api/widget/mazy.png)](https://devbio.me/u/mazy)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
