@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mazy</h1>
 <h3 align="center">A very bad discord bot developer</h3>
 
-- 🔭 I’m currently working on [a discord bot](https://github.com/IzzMazy/barry)
+- 🔭 I’m currently working on [a discord bot](https://discord.com/oauth2/authorize?client_id=882087510577139733&permissions=8&scope=bot%20applications.commands)
 
 - 🌱 I’m currently learning **C++**
 
