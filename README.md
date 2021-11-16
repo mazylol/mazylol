@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a discord bot](https://discord.com/oauth2/authorize?client_id=882087510577139733&permissions=8&scope=bot%20applications.commands)
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C**
 
 - 📫 How to reach me **mazy@cock.li**
 
