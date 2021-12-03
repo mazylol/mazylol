@@ -11,8 +11,8 @@
 
 ## Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mazylol&repo=mazbot&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mazylol&repo=garfield&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mazylol&repo=mazbot&theme=tokyonight)](https://github.com/mazylol/mazbot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mazylol&repo=garfield&theme=tokyonight)](https://github.com/mazylol/garfield)
 
 ## Socials
 <p align="center" margin="30px">
