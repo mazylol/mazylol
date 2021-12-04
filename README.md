@@ -1,7 +1,5 @@
 # Hi :wave:, I'm Mazy
 
-***
-
 ## Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazylol&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
