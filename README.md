@@ -2,8 +2,8 @@
 
 ## Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazylol&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![mazy's's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mazylol&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Mazy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazylol&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Mazy's's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mazylol&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazylol&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
