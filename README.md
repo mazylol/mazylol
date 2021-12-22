@@ -10,7 +10,10 @@
 ## Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mazylol&repo=mazbot&theme=tokyonight)](https://github.com/mazylol/mazbot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mazylol&repo=garfield&theme=tokyonight)](https://github.com/mazylol/garfield)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mazylol&repo=archbtw&theme=tokyonight)](https://github.com/mazylol/archbtw)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mazylol&repo=mathcord&theme=tokyonight)](https://github.com/mazylol/archbtw)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mazylol&repo=coder&theme=tokyonight)](https://github.com/mazylol/archbtw)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mazylol&repo=&theme=tokyonight)](https://github.com/mazylol/archbtw)
 
 ## Socials
 <p align="center" margin="30px">
