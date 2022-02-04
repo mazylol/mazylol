@@ -14,6 +14,10 @@
 
 ## Socials
 <p align="center" margin="30px">
+ <span><img src="https://discord.c99.nl/widget/theme-1/489959482860896260.png"></span>
+</p>
+
+<p align="center" margin="30px">
  <span><a href="https://discord.gg/CHaNsbC"><img src="images/discord.png"></span>
  <span><a href="https://reddit.com/r/mazy"><img src="images/reddit.png"></span>
  <span><a href="https://www.youtube.com/channel/UCTU12OQOJq55jgqM88P8q0w"><img src="images/youtube.png"></span>
