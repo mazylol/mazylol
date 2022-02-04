@@ -1,9 +1,9 @@
-<h1>Mazy</h1>
+<h2>Mazy</h2>
 <p align="center">
 Hi, I make dumb stuff like discord bots and shell scripts
 </p>
 <p align="center">
- <strong>Programming Languages that I mainly use</strong>
+ <strong>Languages</strong>
 </p>
 <p align="center">
  <img alt="C" src="https://img.shields.io/badge/c-%23000000.svg?&style=for-the-badge&logo=c"/>
@@ -17,6 +17,10 @@ Hi, I make dumb stuff like discord bots and shell scripts
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=mazylol&show_icons=true&theme=nord"/>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazylol&theme=nord"/>
+</p>
+<h2>Socials</h2>
+<p align="center" margin="30px">
+ <span><img src="https://discord.c99.nl/widget/theme-1/489959482860896260.png"></span>
 </p>
 <p align="center" margin="30px">
  <span>
