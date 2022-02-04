@@ -1,27 +1,37 @@
-# Hi :wave:, I'm Mazy
-
-[![Mazy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazylol&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mazylol&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazylol&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mazylol&repo=mazbot&theme=tokyonight)](https://github.com/mazylol/mazbot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mazylol&repo=archbtw&theme=tokyonight)](https://github.com/mazylol/archbtw)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mazylol&repo=mathcord&theme=tokyonight)](https://github.com/mazylol/mathcord)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mazylol&repo=histc&theme=tokyonight)](https://github.com/mazylol/histc)
-
-## Socials
-<p align="center" margin="30px">
- <span><img src="https://discord.c99.nl/widget/theme-1/489959482860896260.png"></span>
+<h1>Mazy</h1>
+<p align="center">
+Hi, I make dumb stuff like discord bots and shell scripts
 </p>
-
-<p align="center" margin="30px">
- <span><a href="https://discord.gg/CHaNsbC"><img src="images/discord.png"></span>
- <span><a href="https://reddit.com/r/mazy"><img src="images/reddit.png"></span>
- <span><a href="https://www.youtube.com/channel/UCTU12OQOJq55jgqM88P8q0w"><img src="images/youtube.png"></span>
- <span><a href="mailto:mazylol@cock.li"><img src="images/mail.png"></span>
+<p align="center">
+ <strong>Programming Languages that I mainly use</strong>
 </p>
-
-[Made with :heart: by your's truly](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<p align="center">
+ <img alt="C" src="https://img.shields.io/badge/c-%23000000.svg?&style=for-the-badge&logo=c"/>
+ <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust"/>
+ <img alt="Python" src="https://img.shields.io/badge/python-%23000000.svg?&style=for-the-badge&logo=python"/>
+ <img alt="js" src="https://img.shields.io/badge/js-%23000000.svg?&style=for-the-badge&logo=javascript"/>
+ <img alt="ts" src="https://img.shields.io/badge/ts-%23000000.svg?&style=for-the-badge&logo=typescript"/>
+ <img alt="ts" src="https://img.shields.io/badge/lua-%23000000.svg?&style=for-the-badge&logo=lua"/>
+ <img alt="ts" src="https://img.shields.io/badge/go-%23000000.svg?&style=for-the-badge&logo=go"/>
+</p>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=mazylol&show_icons=true&theme=nord"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazylol&theme=nord"/>
+</p>
+<p align="center" margin="30px">
+ <span>
+  <a href="https://discord.gg/CHaNsbC"><img src="images/discord.png">
+ </span>
+ <span>
+  <a href="https://reddit.com/r/mazy"><img src="images/reddit.png">
+ </span>
+ <span>
+  <a href="https://www.youtube.com/channel/UCTU12OQOJq55jgqM88P8q0w"><img src="images/youtube.png">
+ </span>
+ <span>
+ <a href="mailto:mazylol@cock.li"><img src="images/mail.png">
+ </span>
+</p>
+<p align="center" margin="30px">
+ <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Made with :heart: by your's truly</a>
+</p>
