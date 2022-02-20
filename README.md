@@ -1,4 +1,4 @@
-<h2>Mazy</h2>
+<h2 align="center"><strong>Mazy</strong></h2>
 <p align="center">
 Hi, I make dumb stuff like discord bots and shell scripts
 </p>
