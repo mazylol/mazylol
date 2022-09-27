@@ -6,11 +6,12 @@ Hi, I make dumb stuff like discord bots and shell scripts
  <strong>Languages</strong>
 </p>
 <p align="center">
- <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+ <img alt="Java" src="https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white"/>
  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
- <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+ <img alt="Rust" src="https://img.shields.io/badge/Rust-aa4422?style=for-the-badge&logo=rust&logoColor=white"/>
  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
  <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img alt="Go" src="https://img.shields.io/badge/GO-007d9c?style=for-the-badge&logo=go&logoColor=white"/>
  <img alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 <p align="center">
@@ -38,3 +39,4 @@ Hi, I make dumb stuff like discord bots and shell scripts
 <p align="center" margin="30px">
  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Made with :heart: by your's truly</a>
 </p>
+
