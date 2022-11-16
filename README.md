@@ -5,7 +5,7 @@
 <h3 align="center">Languages</h3>
 <p align="center">
     <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white"/>
-    <img alt="CSharp" src="https://img.shields.io/badge/CS-009404?style=for-the-badge&logo=csharp&logoColor=white"/>
+    <img alt="CSharp" src="https://img.shields.io/badge/C%23-009404?style=for-the-badge&logo=csharp&logoColor=white"/>
     <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
     <img alt="Rust" src="https://img.shields.io/badge/Rust-aa4422?style=for-the-badge&logo=rust&logoColor=white"/>
     <img alt="Go" src="https://img.shields.io/badge/GO-007d9c?style=for-the-badge&logo=go&logoColor=white"/>
