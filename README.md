@@ -4,21 +4,19 @@
 </p>
 <h3 align="center">Languages</h3>
 <p align="center">
-    <img alt="Java" src="https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white"/>
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white"/>
+    <img alt="CSharp" src="https://img.shields.io/badge/CS-009404?style=for-the-badge&logo=csharp&logoColor=white"/>
     <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
     <img alt="Rust" src="https://img.shields.io/badge/Rust-aa4422?style=for-the-badge&logo=rust&logoColor=white"/>
-    <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img alt="Go" src="https://img.shields.io/badge/GO-007d9c?style=for-the-badge&logo=go&logoColor=white"/>
-    <img alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+    <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img alt="Shell" src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=mazylol&show_icons=true&theme=onedark"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazylol&theme=onedark"/>
 </div>
 <h2 align="center">Socials</h2>
-<p align="center" margin="30px">
-    <span><img src="https://discord.c99.nl/widget/theme-1/489959482860896260.png"></span>
-</p>
 <div align="center" margin="30px">
     <span>
         <a href="https://discord.gg/CHaNsbC"><img src="images/discord.png">
