@@ -57,5 +57,3 @@ jobs:
           plugin_rss: yes
           plugin_rss_limit: 4
           plugin_rss_source: https://blog.mazylol.com/feed.xml
-          plugin_stars: yes
-          plugin_stars_limit: 4
